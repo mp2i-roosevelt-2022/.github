@@ -7,6 +7,7 @@ Cette organisation a pour objectif de répertorier differents travaux réalisés
 Voici une liste des différents dépôts disponibles :
 - [TP](https://github.com/mp2i-roosevelt-2022/TP) qui contient l'ensemble des sujets/fichiers de travaux pratiques d'informatique.
 - [EasyCompile](https://github.com/mp2i-roosevelt-2022/EasyCompile) un utilitaire qui permet de compiler les programmes en C.
+- [Le Makefile du cours](https://github.com/mp2i-roosevelt-2022/Makefile) Le Makefile du prof pour compiler en C.
 
 ## Organisation
 
